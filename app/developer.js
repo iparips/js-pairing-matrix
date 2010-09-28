@@ -1,0 +1,3 @@
+var Developer = function(name) {
+
+};
